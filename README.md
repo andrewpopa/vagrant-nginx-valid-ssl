@@ -15,7 +15,7 @@ Vagrant box with nginx and valid ssl certificate
 - connect to the vm
 
 ```bash
-git clone git@github.com:andrewpopa/vagrant-nginx-valid-ssl.git
+git clone https://github.com/andrewpopa/vagrant-nginx-valid-ssl.git
 cd vagrant-nginx-valid-ssl
 vagrant up
 vagrant ssh
