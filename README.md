@@ -1,6 +1,14 @@
 # vagrant-nginx-valid-ssl
 Vagrant box with nginx and valid ssl certificate
 
+
+# Prerequirements
+
+- install [git](https://git-scm.com/downloads)
+- have an account on [cloudflare](https://www.cloudflare.com/) with DNS zones
+- install [vagrant](https://www.vagrantup.com/docs/installation/)
+- [nginx](https://www.nginx.com/)
+
 # Description
 - [vagrant box](#vagrant-box)
   - 4gb ram
